@@ -10,7 +10,7 @@ indicant que el programa ha finalitzat.
 
 edat = int(input("Introdueix la teva edat: ")) # Entrada de l'edat
 
-if edat >= 19:  # Condició per comprovar la majoria d'edat
+if edat >= 18:  # Condició per comprovar la majoria d'edat
     print("Ets major d'edat.")
 else:
     print("Encara ets menor d'edat.")
